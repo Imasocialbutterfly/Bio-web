@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+
+body {
+  padding: 20px;
+  font-size: 30px;
+  background: #D6D6B1;
+  color: black;
+  text-align: center;
+  font-family: 'Racing Sans One', cursive;
+}
+
+.profile-img {
+  width: 50%; 
+  border-radius: 50%; 
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.btn{
+  display: block;
+  color: black;
+  padding: 20px;
+  background-color: white;
+  margin: 20px;
+  box-shadow:10px 10px skyblue;
